@@ -1,4 +1,4 @@
-# My-Profile
+# MyProfile
 
 # Hi there 👋
 
